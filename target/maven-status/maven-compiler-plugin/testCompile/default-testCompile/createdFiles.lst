@@ -1,0 +1,4 @@
+com\ownprep\testcases\TC_Logintest_own_001.class
+com\ownprep\testcases\Baseclassown.class
+com\ownprep\pageobjects\Loginpageown.class
+com\ownprep\utilities\Readconfigown.class
